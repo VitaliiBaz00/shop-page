@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+.product-card{
+  &__img-wrapper{
+    display: flex;
+
+  }
+  &__img{
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+  }
+  &__btn{
+    background: linear-gradient(45deg, #102eff, #d2379b);
+    align-items: center;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+    margin-left: 20px;
+  }
+  &__name{
+    font-weight: bold;
+    margin-left: 10px;
+  }
+  &__color{
+    margin-left: 10px;
+  }
+  &__price{
+    margin-left: 10px;
+  }
+  width: 320px;
+  background-color: #fff;
+  box-shadow: 0 2.5rem 2rem -2rem ;
+  margin: 0 auto;
+  border-radius: 8px;
+  position: relative;
+  top: 30px;
+  margin-bottom: 60px;
+  font-family: Montserrat, sans-serif;
+
+}

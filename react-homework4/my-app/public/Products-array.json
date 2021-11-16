@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Nike Air Jordan 1 Mocha",
+            "price": "545 $",
+            "image": "./products-images/mocha.jpeg",
+            "article": "475834",
+            "color": "Brown"
+        },
+        {
+            "id": "2",
+            "name": "Nike Air Jordan 1 Blue",
+            "price": "705 $",
+            "image": "./products-images/blue-high1.jpeg",
+            "article": "475834",
+            "color": "Blue"
+        },
+        {
+            "id": "3",
+            "name": "Nike Dunk Yellow",
+            "price": "300 $",
+            "image": "./products-images/grey-dunk.jpeg",
+            "article": "475834",
+            "color": "Yellow"
+        },
+        {
+            "id": "4",
+            "name": "Nike Air Jordan 1 Grey",
+            "price": "345 $",
+            "image": "./products-images/grey-high1.jpeg",
+            "article": "475834",
+            "color": "Grey"
+        },
+        {
+            "id": "5",
+            "name": "Nike Air Jordan Off-white",
+            "price": "1000 $",
+            "image": "./products-images/off-4.jpeg",
+            "article": "475834",
+            "color": "White"
+        },
+        {
+            "id": "6",
+            "name": "Nike Air Force Off-White",
+            "price": "1200 $",
+            "image": "./products-images/off-force.webp",
+            "article": "475834",
+            "color": "Green"
+        },
+        {
+            "id": "7",
+            "name": "Nike Dunk Orange",
+            "price": "245 $",
+            "image": "./products-images/orange-dunk.jpeg",
+            "article": "475834",
+            "color": "Orange"
+        },
+        {
+            "id": "8",
+            "name": "Nike Air Jordan 1 Paris",
+            "price": "699 $",
+            "image": "./products-images/paris-high1.jpeg",
+            "article": "475834",
+            "color": "Grey-pink"
+        },
+        {
+            "id": "9",
+            "name": "Nike Air Jordan 1 Travis Scott",
+            "price": "900 $",
+            "image": "./products-images/blue-high1.jpeg",
+            "article": "475834",
+            "color": "Blue"
+        },
+        {
+            "id": "10",
+            "name": "Nike Air Jordan 4",
+            "price": "440 $",
+            "image": "./products-images/un-4.jpeg",
+            "article": "475834",
+            "color": "Pink"
+        }
+    ]
+}
